@@ -1,0 +1,30 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+body {
+    background-color: #80DAEB;
+    font-family: Agbalumo;
+}
+
+h1 {
+    color:blueviolet;
+    text-align:center;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    font-size: 45px;
+    border-style: dashed;
+}
+
+
+p{
+    font-size: 35px;
+   
+}
+
+img{
+    padding: 15px;
+    border-radius: 20%;
+}
